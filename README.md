@@ -17,6 +17,8 @@ PUHD :- Public Holiday
 
 PRSA :- Predictive sales by gunther
 
+'Sales' in code-Actual sales by gunther.  
+
 Seasons -   Summer -1 , Winter -2 ,  Spring-3 , Autumn -4
 
 We can't provide the sales because of our agreement with gunther.
