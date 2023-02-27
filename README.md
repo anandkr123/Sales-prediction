@@ -21,4 +21,4 @@ PRSA :- Predictive sales by gunther
 
 Seasons -   Summer -1 , Winter -2 ,  Spring-3 , Autumn -4
 
-We can't provide the sales because of our agreement with gunther.
+We can't provide the sales data because of our agreement with gunther.
